@@ -1,0 +1,38 @@
+﻿@page "/CasosDetails/{id_caso:int}"
+@inherits CasosDetailsBase
+
+@if (objCasos == null && ErrorMensage == null)
+{
+    <h3>Cargar detalle de casos....</h3>
+}
+else if (ErrorMensage != null)
+{
+    <h3>@ErrorMensage</h3>
+}
+else
+{
+    <h3 class="mb-5">@objCasos.titulo</h3>
+    <div class="row">
+        <div class="col-md-6 mb-4">
+            <img class="img-fluid" src="@objCasos.img_url">
+        </div>
+
+        <div class="col-md-6">
+            <label>Usuario asignado:</label>
+            <p class="mb-4">
+                @objCasos.usuario_asignado
+            </p>
+
+            <label>Branch:</label>
+            <p class="mb-4">@objCasos.branch</p>
+            <p class="mb-4">
+                <b>
+                    @objCasos.notas
+                </b>
+            </p>
+            <label>Branch padre:</label>
+            <p>@objCasos.branch_padre</p>
+            
+        </div>
+    </div>
+}

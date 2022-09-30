@@ -1,0 +1,6 @@
+C:\Users\FQUESADA\Documents\Personales\Desarrollo\apiCasos\apicasos\webCasos\obj\Debug\net6.0\webCasos.csproj.AssemblyReference.cache
+C:\Users\FQUESADA\Documents\Personales\Desarrollo\apiCasos\apicasos\webCasos\obj\Debug\net6.0\webCasos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FQUESADA\Documents\Personales\Desarrollo\apiCasos\apicasos\webCasos\obj\Debug\net6.0\webCasos.AssemblyInfoInputs.cache
+C:\Users\FQUESADA\Documents\Personales\Desarrollo\apiCasos\apicasos\webCasos\obj\Debug\net6.0\webCasos.AssemblyInfo.cs
+C:\Users\FQUESADA\Documents\Personales\Desarrollo\apiCasos\apicasos\webCasos\obj\Debug\net6.0\webCasos.csproj.CoreCompileInputs.cache
+C:\Users\FQUESADA\Documents\Personales\Desarrollo\apiCasos\apicasos\webCasos\obj\Debug\net6.0\webCasos.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,51 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = webCasos
+build_property.RootNamespace = webCasos
+build_property.ProjectDir = C:\Users\FQUESADA\Documents\Personales\Desarrollo\apiCasos\apicasos\webCasos\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\FQUESADA\Documents\Personales\Desarrollo\apiCasos\apicasos\webCasos
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/FQUESADA/Documents/Personales/Desarrollo/apiCasos/apicasos/webCasos/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FQUESADA/Documents/Personales/Desarrollo/apiCasos/apicasos/webCasos/Pages/Casos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2Fzb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FQUESADA/Documents/Personales/Desarrollo/apiCasos/apicasos/webCasos/Pages/CasosDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2Fzb3NEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FQUESADA/Documents/Personales/Desarrollo/apiCasos/apicasos/webCasos/Pages/DisplayCaso.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheUNhc28ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FQUESADA/Documents/Personales/Desarrollo/apiCasos/apicasos/webCasos/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FQUESADA/Documents/Personales/Desarrollo/apiCasos/apicasos/webCasos/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FQUESADA/Documents/Personales/Desarrollo/apiCasos/apicasos/webCasos/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-zxq0n5tucb
+
+[C:/Users/FQUESADA/Documents/Personales/Desarrollo/apiCasos/apicasos/webCasos/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-1ymmiylixt
